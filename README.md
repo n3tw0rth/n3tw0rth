@@ -1,10 +1,10 @@
 ## Hi, I'm 0xbyt3z
 
-[web](https://byt3z.vercel.app)
+🔗[web](https://byt3z.vercel.app)
 
 ##### Works With
 
-1. Front End - (Next.Js,Vite,Astro,TailwindCSS)
+1. Front End - (Next.Js,Vite,Astro,TailwindCSS,Flask)
 2. Back End - (Prisma, MySQL/SQL, NodeJs,ASP.Net)
 3. Desktop Developement - (.Net C# , Java)
 
