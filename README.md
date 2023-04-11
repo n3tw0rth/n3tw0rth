@@ -16,6 +16,11 @@
 4. Java
 5. Rust (Learning)
 
+##### Understands
+
+1. Version Controlling
+2. REST and Web Technologies
+
 ##### Interests
 
 1. Programming (Any)
