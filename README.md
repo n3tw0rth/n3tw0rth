@@ -30,7 +30,7 @@
 
 
 ##### Projects
-1.
+1. https://recruits.vercel.app/ - centraized app for the evolving job market
 2. https://postman2.vercel.app/ - Api tester based on postman
 
 ##### More
