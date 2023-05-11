@@ -35,5 +35,5 @@
 
 ##### More
 
-1. Beleive that i can learn and understand things faster 😇
+1. Love to learn new stuff 😇
 2. Most of the repos are private 👍.
