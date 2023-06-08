@@ -29,10 +29,11 @@
 
 ##### Understands
 
-1. Key concepts of programming
-2. Version Controlling
-3. REST and Web Technologies
-4. Server Oriented and Serverless architectures
+1. Assembly Language and intructions work
+2. Key concepts of programming
+3. Version Controlling
+4. REST and Web Technologies
+5. Server Oriented and Serverless architectures
 
 ##### Interests
 
