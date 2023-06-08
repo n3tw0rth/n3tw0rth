@@ -31,7 +31,10 @@
 
 ##### Projects
 1. https://recruits.vercel.app/ - centraized app for the evolving job market
-2. https://postman2.vercel.app/ - Api tester based on postman
+2. https://github.com/0xbyt3z/osintcrawler - OSINT tool
+3. https://github.com/0xbyt3z/chatbot - chatbot (NLTK)
+4. https://github.com/0xbyt3z/CricketMatch - fully randomized cricket match sandbox
+5. https://github.com/0xbyt3z/ui - UI/UX designs from dribbble.com
 
 ##### More
 
