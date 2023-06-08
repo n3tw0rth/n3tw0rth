@@ -4,9 +4,20 @@
 
 ##### Works With
 
-1. Front End - (Next.Js,Vite,Astro,TailwindCSS,Flask)
-2. Back End - (Prisma, MySQL/SQL, NodeJs,ASP.Net)
-3. Desktop Developement - (.Net C# , Java)
+1. Front End 
+    1. Next.Js
+    2. Vite
+    3. Astro
+    4. TailwindCSS
+    5. Flask
+2. Back End 
+    1. Prisma
+    2. MySQL/SQL
+    3. NodeJs
+    4. ASP.Net
+3. Desktop Developement 
+    1. .Net C#
+    2. Java
 
 ##### Languages
 
@@ -18,8 +29,10 @@
 
 ##### Understands
 
-1. Version Controlling
-2. REST and Web Technologies
+1. Key concepts of programming
+2. Version Controlling
+3. REST and Web Technologies
+4. Server Oriented and Serverless architectures
 
 ##### Interests
 
