@@ -44,6 +44,10 @@
 
 
 ##### Projects
+
+[masters.lk](https://masters.lk) - currently developing
+[marry.lk](https://marry.lk) - currently developing
+
 1. https://recruits.vercel.app/ - centraized app for the evolving job market
 2. https://github.com/0xbyt3z/osintcrawler - OSINT tool
 3. https://github.com/0xbyt3z/chatbot - chatbot (NLTK)
