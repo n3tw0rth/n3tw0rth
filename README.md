@@ -21,9 +21,9 @@ I'm n3tw0rth, I am interested in learning low level stuff.
 **Technologies**: `GRPC`
 
 
-*l - Learning*
+<sup><sub>*\* - Learning*</sub></sup>
 
 
-# 📫 Contact
+# Contact
 
-Contact me on [Twitter](https://www.x.com/ushiradineth/) or [LinkedIn](https://www.linkedin.com/in/ushiradineth/).
+Find me on [Twitter](https://www.x.com/0xbyt3z/) or [Email](mailto:waootkt3g@mozmail.com)
