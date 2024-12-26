@@ -1,6 +1,10 @@
-# Hey,
+# Hey, I'm n3tw0rth 🌊
 
-I'm n3tw0rth, I am interested in learning low level stuff.  
+I'm interested in low-level programming and exploring the internals of software systems.
+I work as a Software Engineer, and in my free time, I enjoy:
+
+- Building terminal tools.
+- Learning about software reversing.
 
 # Skills
 
@@ -12,16 +16,16 @@ I'm n3tw0rth, I am interested in learning low level stuff.
 
 **DevOps**: `Kubernetes` `Docker` `Terraform` `GitOps`
 
-**Languages**: `Rust` `Python`
+**Languages**: `Rust` `JS\TS` `Python` `Lua*` `Go*`
 
 **Environment**: `Tmux` `Neovim` `i3wm` `Linux`
 
 **Tools**: `Jira` `Notion` `Excalidraw`
 
-**Technologies**: `GRPC`
+**General**: `GRPC` `Bash`
 
 
-<sup><sub>*\* - Learning*</sub></sup>
+<sub>*\* - Learning*</sub>
 
 
 # Contact
