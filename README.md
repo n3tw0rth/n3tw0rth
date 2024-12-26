@@ -1,4 +1,4 @@
-# Hey, I'm n3tw0rth 🌊
+# Hey, I'm n3tw0rth
 
 I'm interested in low-level programming and exploring the internals of software systems.
 I work as a Software Engineer, and in my free time, I enjoy:
@@ -22,7 +22,7 @@ I work as a Software Engineer, and in my free time, I enjoy:
 
 **Tools**: `Jira` `Notion` `Excalidraw`
 
-**General**: `GRPC` `Bash`
+**General**: `GRPC` `Bash` `Git`
 
 
 <sub>*\* - Learning*</sub>
@@ -31,3 +31,8 @@ I work as a Software Engineer, and in my free time, I enjoy:
 # Contact
 
 Find me on [Twitter](https://www.x.com/0xbyt3z/) or [Email](mailto:waootkt3g@mozmail.com)
+
+<br>
+<br>
+
+You might find all the tools i use on a daily basis [here](https://github.com/n3tw0rth/dotfiles/blob/master/readme.md)
