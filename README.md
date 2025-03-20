@@ -8,7 +8,7 @@ I work as a Software Engineer on Backends and Cloud environments, and in my free
 
 # Skills
 
-**Backend**:  `Nest.js` `GraphQL` `REST` `Node.js`
+**Backend**:  `Nest.js` `GraphQL` `REST` `Node.js` `Spring Boot`
 
 **Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 
