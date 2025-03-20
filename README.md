@@ -1,10 +1,10 @@
 # Hey, I'm n3tw0rth
 
 I'm interested in low-level programming and exploring the internals of software systems.
-I work as a Software Engineer, and in my free time, I enjoy:
+I work as a Software Engineer on Backends and Cloud environments, and in my free time, I enjoy:
 
 - Building terminal tools.
-- Learning about software reversing.
+- Learning new things.
 
 # Skills
 
