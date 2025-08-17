@@ -5,6 +5,7 @@ I work as a Software Engineer on Backends and Cloud environments, and in my free
 
 - Building terminal tools.
 - Learning new things.
+- And i do tissue culture (Anubias, Monstera, Philodendron)
 
 # Skills
 
