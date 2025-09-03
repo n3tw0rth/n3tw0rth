@@ -35,5 +35,3 @@ Find me on [Twitter](https://www.x.com/0xbyt3z/) or [Email](mailto:waootkt3g@moz
 
 <br>
 <br>
-
-You might find all the tools i use on a daily basis [here](https://github.com/n3tw0rth/dotfiles/blob/master/readme.md)
